@@ -2,6 +2,8 @@
 
 A quick hack of a command-line client for [ideone](http://ideone.com).
 
+**This library is no longer being maintained. Please use [ideone-ruby-api](https://github.com/kennym/ideone-ruby-api).**
+
 ## Requirements
 
  * Ruby 1.9.2
